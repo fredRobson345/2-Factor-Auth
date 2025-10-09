@@ -7,3 +7,9 @@ This project is the beginning of my development that will allow a user to signin
 *
 *
 *
+
+##NEXT STEPS
+* connect to database
+* create database
+* add .env file
+* add .gitignore file
